@@ -1,0 +1,40 @@
+body {
+  width: 1440px;
+  margin: 0;
+  text-align: center;
+  background-color: #EEEEEE;
+}
+
+.container{
+background: white;
+height: auto;
+width: 220px;
+position: relative;
+left: 750px;
+top: 100px;
+border-radius: 20px;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.heading1{
+ width: 200px;
+ margin-left: 10px;
+ font-family: 'Roboto', sans-serif;
+ font-size: 13px;
+}
+
+.para1{
+ width: 200px;
+ margin-left: 10px;
+ font-family: 'Roboto', sans-serif;
+ font-size: 12px;
+ font-weight: 100px;
+ padding-bottom: 30px;
+}
